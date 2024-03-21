@@ -1,2 +1,1 @@
-# image_sr_ver1
-#usrnet_transunet
+put training data into trainsets
